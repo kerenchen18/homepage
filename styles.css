@@ -1,0 +1,75 @@
+body{
+ color:#003366;
+font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;
+}
+
+
+.title{
+  height:500px;
+  width:100%;
+  text-align:center;
+  position:fixed;
+  top:27%;
+}
+
+
+#name{
+  height:50px;
+  font-size:40px;
+  font-family:Impact, Charcoal, sans-serif;
+}
+
+
+#course{
+  
+  font-size:20px;
+}
+
+.top-bar{  
+  width:80%;
+  height:30px;
+  position:fixed;
+    margin:auto 10%;
+  top:10%;
+}
+
+.bottom-bar{  
+  width:80%;
+  margin:auto 10%;
+  height:30px;
+  position:fixed;
+  top:80%;
+}
+
+.content{
+  display:inline-block;  
+  font-size:15px;
+  width:50%;
+
+}
+
+
+#one{
+    text-align:left;  
+margin-left:0;
+}
+
+
+#two{
+   text-align:right;  
+margin-right:0;
+}
+
+
+#three{
+   text-align:left;  
+margin-left:0;
+
+}
+
+
+#four{
+     text-align:right; 
+margin-right:0;
+}
+
